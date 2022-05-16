@@ -3360,7 +3360,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #989898;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
@@ -3993,11 +3993,11 @@ input, select, textarea {
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
-		/* background-image: -moz-linear-gradient, url("../../images/img4.jpg"); */
-		background: url("../../images/img4.jpg") no-repeat center center fixed;
+		
+		background: url("../../images/img4.jpg") center center fixed;
 		background-size: 100% 100%;
-		background-position: center center;
-		background-repeat: no-repeat;
+		
+		/* background-repeat: no-repeat; */
 		background-size: cover;
 	}
 
