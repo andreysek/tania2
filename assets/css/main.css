@@ -132,10 +132,8 @@ input, select, textarea {
 				font-size: 11pt;
 				letter-spacing: 0.0375em;
 			}
-			body.is-preload *:after {
-				background-attachment: scroll;
-				padding: 254px 0px !important;
-			}	
+			
+
 		}
 
 	a {
@@ -3997,7 +3995,7 @@ input, select, textarea {
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
 		
-		background: url("../../images/img4.jpg") center center fixed;
+		background: url("../../images/banner.jpg") center center fixed;
 		background-size: 100% 100%;
 		
 		/* background-repeat: no-repeat; */
