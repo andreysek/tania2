@@ -1842,17 +1842,17 @@ mark {
 	}
 
 	body.is-mobile.landing #page-wrapper {
-		background: none;
-	}
-
-	body.is-mobile.landing #banner,
-	body.is-mobile.landing .wrapper.style4 {
-		
 		background: url("../../images/img3.jpg") center center fixed;
 		background-size: 100% 100%;
 		
 		/* background-repeat: no-repeat; */
 		background-size: cover;
+	}
+
+	body.is-mobile.landing #banner,
+	body.is-mobile.landing .wrapper.style4 {
+		
+		
 	}
 
 	body.is-mobile.landing #footer {
